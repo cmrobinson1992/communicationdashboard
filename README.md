@@ -8,12 +8,8 @@
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Data Sources](#data-sources)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Modeling Approach](#modeling-approach)
-- [Dashboard Screenshots](#dashboard-screenshots)
+- [Final Paper](#final-paper)
 - [Future Improvements](#future-improvements)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -61,11 +57,11 @@ The dashboard uses two primary data sources:
 
 ---
 
-**Final Paper**
+## Final Paper
 
 [(https://github.com/cmrobinson1992/communicationdashboard/blob/main/Practicum_Project-%20Final.pdf)]
 
-Future Improvements
+## Future Improvements
 * Transition from static CSV ingestion to real-time APIs
 
 * Enhance email classification performance on minority categories
