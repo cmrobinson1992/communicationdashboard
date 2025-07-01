@@ -2,9 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import sys, os
 
-# Assuming results_df is already available and looks something like this:
-# results_df = pd.DataFrame(gridsearch.cv_results_)
-
 # Set up the figure with 3 subplots side by side
 script_dir = os.path.dirname(os.path.abspath(__file__))
 results_df = pd.read_csv(os.path.join(script_dir, "./cnn_glove_cv_results.csv"))
