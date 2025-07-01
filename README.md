@@ -1,6 +1,6 @@
 # SLTX Communications Dashboard (With NLP Classification)
 
-**## This project delivers a flexible, user-friendly **interactive communication performance dashboard** for the Surplus Lines Stamping Office of Texas (SLTX) Operations Department. It integrates Microsoft Outlook and Teams data to quantify, visualize, and analyze communication activity by method (email or phone), direction, and content. Additionally, it implements a natural language processing (NLP) model to classify emails into categories to support decision-making and performance evaluation.
+This project delivers a flexible, user-friendly **interactive communication performance dashboard** for the Surplus Lines Stamping Office of Texas (SLTX) Operations Department. It integrates Microsoft Outlook and Teams data to quantify, visualize, and analyze communication activity by method (email or phone), direction, and content. Additionally, it implements a natural language processing (NLP) model to classify emails into categories to support decision-making and performance evaluation.
 **NOTE: Because of sensitive information included in e-mails, an interactive version of the dashboard and the data set used is unavailable**
 
 ## Table of Contents
