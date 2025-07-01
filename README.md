@@ -59,7 +59,7 @@ The dashboard uses two primary data sources:
 
 ## Final Paper
 
-[(https://github.com/cmrobinson1992/communicationdashboard/blob/main/Practicum_Project-%20Final.pdf)]
+[Paper] (https://github.com/cmrobinson1992/communicationdashboard/blob/main/Practicum_Project-%20Final.pdf)
 
 ## Future Improvements
 * Transition from static CSV ingestion to real-time APIs
