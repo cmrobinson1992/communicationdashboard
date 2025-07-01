@@ -61,26 +61,9 @@ The dashboard uses two primary data sources:
 
 ---
 
-## Installation
-
-> **Note:** Ensure you have R (≥4.0) installed along with the Shiny package.
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/sltx-communication-dashboard.git
-   cd sltx-communication-dashboard
-
-2. Install R Package dependencies:
-3. Install Tensorflow and Keras backend in R
-
-**Usage**
-To launch shiny dashboard:
-library(shiny)
-runApp("dashboard/")
-
 **Final Paper**
 
-
+[(https://github.com/cmrobinson1992/communicationdashboard/blob/main/Practicum_Project-%20Final.pdf)]
 
 Future Improvements
 * Transition from static CSV ingestion to real-time APIs
